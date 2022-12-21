@@ -5,5 +5,4 @@ videos
 cypress/fixtures/user-auth.json
 cypress/fixtures/teste
 cypress/downloads
-yarn-error.log
 cypress.env.json
