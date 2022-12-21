@@ -1,0 +1,14 @@
+{
+  "name": "estudo-testes-api",
+  "version": "1.0.0",
+  "description": "Projeto de estudos de testes de API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Vinicius Carneiro Nascimento",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
